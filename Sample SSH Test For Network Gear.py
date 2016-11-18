@@ -1,6 +1,8 @@
 import paramiko
 import time
 
+#Uses Python 3.0+ syntax
+
 if __name__ == '__main__':
 	username = "[Your Username]"
 	password = "[Your Password]"
